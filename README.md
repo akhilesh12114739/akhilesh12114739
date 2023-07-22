@@ -17,7 +17,7 @@
 <br>
 
 <p align="center">
-  <a title="Portfolio" href="https://akhilesh12114739.github.io/">
+  <a title="Portfolio" href="#">
     <img src="https://cdn0.iconfinder.com/data/icons/web-development-79/32/development_globe_sphere-64.png" width="50" height="50" />
   </a>
   &nbsp;
