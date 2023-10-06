@@ -1,72 +1,75 @@
-# profile
-<p align="center">
-  <h1 align="center">Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35px">, I am Akhilesh prajapati  </h1>
-</p>
+# Hey There, I'm [Akhilesh Prajapati](https://www.linkedin.com/in/iamvikramkumar5)!  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> 
+<!--# Hey There <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> I'm [Akhilesh Prajapati](https://www.linkedin.com/in/iamvikramkumar5)! -->
 
-
-
-![](https://raw.githubusercontent.com/metoop/shravan20/main/assets/header.png)
-
-
-<!-- ![conrtribution chart](https://user-images.githubusercontent.com/49487927/121585645-7390dc80-ca50-11eb-9873-60101788dfc5.gif) -->
-
-<h4 align="center">
-    <b> 2023 Goals: Contribute more to Open Source projects :octocat: </b>
-</h4>
-
+<a href="https://www.linkedin.com/in/iamvikramkumar5">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> 
+ </a> 
+<a href="mailto:iamvikramkumar5@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"   />
+</a>
+<a href="https://twitter.com/thevikram_seth">
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"   />
+</a>
+<a href="https://instagram.com/thevikram_seth">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+<!-- <a href="">
+	<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+</a> -->
+<a href="https://www.buymeacoffee.com/iamvikramkumar5">
+	<img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" />
+</a>
 <br>
 
-<p align="center">
-  <a title="Portfolio" href="#">
-    <img src="https://cdn0.iconfinder.com/data/icons/web-development-79/32/development_globe_sphere-64.png" width="50" height="50" />
-  </a>
-  &nbsp;
-  &nbsp;
-  <!--
-  <a title="DEV.to" href="https://dev.to/akhilesh12114739">
-    <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/84_Dev-512.png" width="50" height="50" />
-  </a>
-  &nbsp;
-  &nbsp;
-  -->
-  <!--
-  <a title="Medium" href="https://medium.com/@akhilesh12114739">
-    <img src="https://cdn.mos.cms.futurecdn.net/uazw6gFQuEC29mxMM55Tpb-1200-80.jpg" width="45" height="45"  />
-  </a>
-  &nbsp;
-  &nbsp;
-  -->
-  <a title="LinkedIn" href="https://www.linkedin.com/in/akhilesh-prajapati-2769b31b0/">
-    <img src="https://cdn4.iconfinder.com/data/icons/social-media-and-logos-11/32/Logo_LinkedIn-512.png" width="50" height="50" />
-  </a>
-  &nbsp;
-  &nbsp;
-  
-  <a title="Email" href="mailto:akp03112000@gmail.com">
-    <img src="https://cdn4.iconfinder.com/data/icons/social-media-and-logos-11/32/Logo_Gmail_envelope_letter_email-64.png" width="50" height="50" />
-  </a>
-  &nbsp;
-  &nbsp;
-  
-  <a title="Stackoverflow" href="#">
-    <img src="https://cdn0.iconfinder.com/data/icons/social-media-and-logos-11/32/logo_stackoverflow_Stack_overflow-64.png" width="50" height="50" />
-  </a>
-  &nbsp;
-  &nbsp;
-  
-  <a title="Twitter" href="https://twitter.com/akp03112000">
-    <img src="https://cdn4.iconfinder.com/data/icons/social-media-and-logos-11/32/Logo_Twitter_bird-64.png" width="50" height="50" />
-  </a>
-</p>
+
+## 🎓 About me
+- I'm Devops Engineer ❤️
+- I'm enthusiastic about what I do and I constantly learn new things. 
+- In my spare time, You'll find me staying up-to-date with tech news, strumming my guitar, and immersing myself in music.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=iamvikramkumar&label=Profile%20views&color=0e75b6&style=flat" alt="iamvikramkumar" /> </p>
 
 
-<!-- <p align="center">
-    <img align="center" alt="akhilesh12114739's Github Stats" src="https://github-readme-stats.vercel.app/api?username=akhilesh12114739&show_icons=true&hide_border=true" />
-</p>
+<!-- ##  ✔ Technologies  -->
+
+<!-- ### Languages⚡
+<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen" /> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
  -->
-<p align="center">
-    <img align="center" alt="akhilesh12114739's Github Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=akhilesh12114739" />
-</p>
-<!-- <br> -->
-<br>
-<img src="https://komarev.com/ghpvc/?username=akhilesh12114739&color=green" alt="profile-views">
+### Languages & Frameworks
+
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" /> <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" /> <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" /> <img src="https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white" /> <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green" /> <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" /> <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"  /> <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/> <img src="https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white" />   
+
+### Tools & Technologies
+<img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" /> <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" /> <img src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white" /> <img src="https://img.shields.io/badge/RStudio-4285F4?style=for-the-badge&logo=rstudio&logoColor=white" />
+
+
+
+
+### Databases
+
+<img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white" />  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
+
+### Cloud
+<img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=yellow" /> <img src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white"/> <img src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+
+### Design
+<img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" /> <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" />
+
+
+### Others
+
+ <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" /> <img src="https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white" /> 
+
+### Achievements
+- [Microsoft Azure Badges 📛](https://learn.microsoft.com/en-us/users/me/achievements#badges-section) <br> 
+- [Microsoft Azure Trophies 🏆](https://learn.microsoft.com/en-us/users/me/achievements#trophies-section) <br>
+- [Google Cloud 🏆 ](https://www.cloudskillsboost.google/public_profiles/68f116c5-73ca-4e74-b3e1-68855b4157aa) <br>
+<!-- ## Certification 🎓
+
+- [HashiCorp Certified: Terraform Associate (002)](--link -- ) <br> <br> -->
+
+## 📈 GitHub Stats
+
+[![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iamvikramkumar&theme=tokyonight)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=iamvikramkumar&theme=tokyonight)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=iamvikramkumar&theme=tokyonight)](https://github.com/vn7n24fzkq/github-profile-summary-cards)      ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=iamvikramkumar&theme=tokyonight)  [![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=iamvikramkumar&theme=tokyonight)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
+
+
