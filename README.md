@@ -1,29 +1,29 @@
-# Hey There, I'm [Akhilesh Prajapati](https://www.linkedin.com/in/iamvikramkumar5)!  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> 
+# Hey There, I'm [Akhilesh Prajapati](https://www.linkedin.com/in/akhilesh-prajapati-2769b31b0/)!  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> 
 <!--# Hey There <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> I'm [Akhilesh Prajapati](https://www.linkedin.com/in/iamvikramkumar5)! -->
 
-<a href="https://www.linkedin.com/in/iamvikramkumar5">
+<a href="https://www.linkedin.com/in/akhilesh-prajapati-2769b31b0/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> 
  </a> 
-<a href="mailto:iamvikramkumar5@gmail.com">
+<a href="mailto:akp03112000@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"   />
 </a>
-<a href="https://twitter.com/thevikram_seth">
+<a href="https://twitter.com/akp03112000">
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"   />
 </a>
-<a href="https://instagram.com/thevikram_seth">
+<a href="https://instagram.com/akhil_0311_">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 <!-- <a href="">
 	<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
 </a> -->
-<a href="https://www.buymeacoffee.com/iamvikramkumar5">
+<a href="#">
 	<img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" />
 </a>
 <br>
 
 
 ## 🎓 About me
-- I'm Devops Engineer ❤️
+- I'm Software Engineer ❤️
 - I'm enthusiastic about what I do and I constantly learn new things. 
 - In my spare time, You'll find me staying up-to-date with tech news, strumming my guitar, and immersing myself in music.
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamvikramkumar&label=Profile%20views&color=0e75b6&style=flat" alt="iamvikramkumar" /> </p>
